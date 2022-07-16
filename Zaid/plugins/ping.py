@@ -5,7 +5,7 @@ from telethon import Button, events
 from Zaid import *
 
 IMG = os.environ.get(
-    "PING_PIC", "https://telegra.ph/file/5edf1b910c71e385e5d57.jpg"
+    "PING_PIC", "https://telegra.ph/file/e7bbf0185b5c52e281681.jpg"
 )
 ms = 4
 
