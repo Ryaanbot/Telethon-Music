@@ -18,5 +18,5 @@ CAPTION = f"**꧁•⊹٭Ping٭⊹•꧂**\n\n   ⚜ {ms}\n   ⚜ ❝𝐌𝐲 �
 
 @Zaid.on(events.NewMessage(pattern="^/ping"))
 async def _(event):
-    UMM = [[Button.url("⚜ Cԋαɳɳҽʅ ⚜", "https://t.me/TheUpdatesChannel")]]
+    UMM = [[Button.url("⚜ Owner ⚜", "https://t.me/Rommelxx")]]
     await Zaid.send_file(event.chat_id, IMG, caption=CAPTION, buttons=UMM)
